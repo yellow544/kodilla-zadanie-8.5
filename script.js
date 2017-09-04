@@ -1,6 +1,6 @@
 // script.js
 
-//Area of a triangle calculator
+//Area of a triangle Calculator
 var a = prompt('Enter number for triangle base a' ),
 		h = prompt('Enter number for triangle height h' ),
 		triangleArea = a * h / 2;
